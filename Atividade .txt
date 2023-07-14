@@ -1,0 +1,4 @@
+Olá!
+Meu nome é Michele
+
+Minha experiência com a codifica está sendo maravilhosa e satisfatória, já tinha alguns conhecimentos em HTML e CSS, mas com JavaScript está sendo meu primeiro contato com a linguagem.
